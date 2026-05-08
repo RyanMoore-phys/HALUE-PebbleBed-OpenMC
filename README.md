@@ -15,7 +15,7 @@ The pebble is a 3 cm radius sphere with a 0.5 cm graphite shell. The fuel zone i
 | Pu-239 at EOC | 6% of initial U-235 |
 | Pu-239 share of fissions, EOC | 15% |
 | Discharge burnup | 340 MWd/kgU (infinite lattice) |
-| Doppler defect (300→1200 K) | –3.8 pcm |
+| Doppler defect (300→1200 K) | –4.2 pcm |
 
 In addition, a fuel-temperature sweep from 293K to 1200K was also performed to determine the Doppler reactivity feedback. This is the primary passive-safety mechanism in HTGRs. Results are detailed in the Temperature Reactivity section below.
 
@@ -57,7 +57,7 @@ resonance absorption.
 
 Figure 5: k∞ decreases monotonically with fuel temperature, driven by Doppler broadening
 of the U-238 capture resonances. The drop from cold (~293 K) to operating temperature
-(~1200 K) is approximately -3.8 pcm/K which is consistent with the strongly negative Doppler
+(~1200 K) is approximately -4.2 pcm/K which is consistent with the strongly negative Doppler
 feedback expected for HALEU TRISO fuels.
 
 **Doppler Coefficient**
@@ -65,7 +65,7 @@ feedback expected for HALEU TRISO fuels.
 
 Figure 6: The temperature reactivity coefficient (dk/dT) is negative across the entire
 range and becomes less negative at higher temperatures, consistent with the 1/√T
-dependence of Doppler broadening. The magnitude of ~ –3.8 pcm/K confirms robust
+dependence of Doppler broadening. The magnitude of ~ –4.2 pcm/K confirms robust
 passive-safety behavior under power-transient conditions.
 
 **Doppler Reactivity Swing**
